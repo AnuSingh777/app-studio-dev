@@ -71,22 +71,16 @@ export default function Contact() {
             <ul className="mt-6 space-y-6 text-gray-600">
               <li className="flex items-center space-x-4">
                 <FaMapMarkerAlt className="text-indigo-600 text-xl" />
-                <span className="font-semibold">Address:</span> 123 Main Street, Suite 500, City, Country
+                <span className="font-semibold">Address:</span> 53 Main Street, Suite 500, lakhnow, UP
               </li>
               <li className="flex items-center space-x-4">
                 <FaEnvelope className="text-indigo-600 text-xl" />
                 <span className="font-semibold">Email:</span>{" "}
-                <a href="mailto:contact@appstudio.com" className="text-indigo-600 hover:underline">
-                  contact@appstudio.com
+                <a href="mailto:studiodev777@gmail.com" className="text-indigo-600 hover:underline">
+                studiodev777@gmail.com
                 </a>
               </li>
-              <li className="flex items-center space-x-4">
-                <FaPhone className="text-indigo-600 text-xl" />
-                <span className="font-semibold">Phone:</span>{" "}
-                <a href="tel:+123456789" className="text-indigo-600 hover:underline">
-                  +1 (234) 567-890
-                </a>
-              </li>
+           
             </ul>
           </div>
         </div>
